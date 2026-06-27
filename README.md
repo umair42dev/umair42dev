@@ -2,72 +2,67 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Muhammad%20Umair!%20👋&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
-<h3 align="center">Founding Engineer @ Edvenity | AI Developer | Full-Stack Engineer</h3>
+<h3 align="center">AI Engineer | Agentic Systems Specialist | Former Founding Engineer @ Edvenity</h3>
 
 <p align="center">
-  I'm a passionate engineer focused on building intelligent, scalable, and impactful applications. My current obsession lies in the realm of Generative AI, specifically architecting complex LLM workflows and agents using <strong>LangChain</strong> and <strong>LangGraph</strong>. 
+  I specialize in architecting intelligent, scalable, and autonomous AI systems. With 2 years of startup experience building enterprise-grade LLM applications from the ground up, I help companies turn Generative AI concepts into reliable, production-ready features.
 </p>
 
-<div align="center">
-  <a href="https://github.com/umair42dev">
-    <img src="https://img.shields.io/github/followers/umair42dev?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/umair42dev">
-    <img src="https://img.shields.io/twitter/follow/umair42dev?label=Follow&style=social" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/umair42dev">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 <br>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me & What I Do
 
-- 🏢 **Currently:** Founding Engineer at **Edvenity**, driving innovation in ed-tech through AI.
-- 🧠 **Specialization:** Building state-of-the-art AI Agents and RAG (Retrieval-Augmented Generation) pipelines.
-- 🛠️ **Deep Expertise:** Orchestrating complex logic with **LangChain** and mapping agent state flows with **LangGraph**.
-- 💻 **Background:** Robust Full-Stack Engineering, bridging the gap between sophisticated AI backends and seamless user experiences.
-- 🌱 **Always Learning:** Keeping up with the bleeding edge of Open Source LLMs, vector databases, and prompt engineering.
-- 📫 **How to reach me:** [Insert your email or preferred contact link here]
+- 🏢 **Previously:** Founding Engineer at **Edvenity** (2 Years). I led the development of AI-driven HR automation, intelligent resume matching algorithms, and autonomous interview screening agents. 
+- 🎯 **Current Focus:** Open for **AI Engineering opportunities** (Full-time, Contract, or Consulting services).
+- 🧠 **My Core Services:** 
+  - Designing state-of-the-art **AI Agents** and **Multi-Agent Systems**.
+  - Building high-accuracy **RAG (Retrieval-Augmented Generation)** pipelines.
+  - LLM Orchestration and State Management using **LangChain** & **LangGraph**.
+  - Integrating NLP, Semantic Search, and Vector Databases into existing full-stack applications.
+- 📫 **Let's collaborate:** [Insert your email here, e.g., umair@example.com]
 
 ---
 
-### 🧠 AI & LLM Ecosystem
+### 🧠 AI Engineering Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" alt="LangChain" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai-color.png" alt="OpenAI" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" alt="Hugging Face" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI Frameworks" />
-  <!-- Add icons for specific Vector DBs if you use them, e.g., Pinecone, Weaviate -->
 </div>
 
 ---
 
-### 💻 Full-Stack Tech Stack
+### 💻 Full-Stack Foundation
 
-**Languages:**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
-
-**Frontend:**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+Because great AI needs a robust infrastructure to run on.
 
 **Backend & APIs:**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" />
 
-**Databases:**
+**Frontend:**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
 
-**DevOps & Tools:**
+**Databases & DevOps:**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" />
+
+---
+
+### 💼 How I Can Help Your Team
+
+1. **LLM Application Development:** Moving your AI ideas out of the Jupyter Notebook phase and into scalable web applications.
+2. **Agentic Workflows:** Using LangGraph to build cyclical, stateful AI agents that can browse, reason, and execute complex workflows autonomously.
+3. **Prompt Engineering & Fine-Tuning:** Optimizing model outputs for accuracy, reducing hallucinations, and ensuring JSON-strict outputs for backend consumption.
+4. **End-to-End Delivery:** As a former Founding Full-Stack Engineer, I don't just write AI scripts; I deploy them behind secure REST/GraphQL APIs and connect them to polished frontends.
 
 ---
 
@@ -88,7 +83,7 @@
 ---
 
 <div align="center">
-  <i>"Building the future of education and AI, one node at a time."</i>
+  <i>"Transforming complex AI logic into seamless product experiences."</i>
 </div>
 
 <div align="center">
