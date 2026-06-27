@@ -67,9 +67,6 @@ Because great AI needs a robust infrastructure to run on.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair42dev&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
