@@ -8,17 +8,7 @@
   I specialize in architecting intelligent, scalable, and autonomous AI systems. With 2 years of startup experience building enterprise-grade LLM applications from the ground up, I help companies turn Generative AI concepts into reliable, production-ready features.
 </p>
 
-<div align="center">
-  <a href="https://github.com/umair42dev">
-    <img src="https://img.shields.io/github/followers/umair42dev?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/umair42dev">
-    <img src="https://img.shields.io/twitter/follow/umair42dev?label=Follow&style=social" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/umair42dev">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+
 
 <br>
 
@@ -33,7 +23,7 @@
   - Building high-accuracy **RAG (Retrieval-Augmented Generation)** pipelines.
   - LLM Orchestration and State Management using **LangChain** & **LangGraph**.
   - Integrating NLP, Semantic Search, and Vector Databases into existing full-stack applications.
-- 📫 **Let's collaborate:** [Insert your email here, e.g., umair@example.com]
+- 📫 **Let's collaborate:** [umair42.dev@gmail.com]
 
 ---
 
@@ -70,8 +60,8 @@ Because great AI needs a robust infrastructure to run on.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair42dev&show_icons=true&theme=radium&hide_border=true" alt="Umair's GitHub Stats" />
-  <br><br>
+
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umair42dev&theme=radium&hide_border=true" alt="Umair's GitHub Streak" />
 </div>
 
