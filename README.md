@@ -8,6 +8,17 @@
   I specialize in architecting intelligent, scalable, and autonomous AI systems. With 2 years of startup experience building enterprise-grade LLM applications from the ground up, I help companies turn Generative AI concepts into reliable, production-ready features.
 </p>
 
+<div align="center">
+  <a href="https://github.com/umair42dev">
+    <img src="https://img.shields.io/github/followers/umair42dev?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/umair42dev">
+    <img src="https://img.shields.io/twitter/follow/umair42dev?label=Follow&style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/umair42dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <br>
 
@@ -29,12 +40,11 @@
 ### 🧠 AI Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" alt="LangChain" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai-color.png" alt="OpenAI" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" alt="Hugging Face" width="48" height="48" style="vertical-align: top; margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="vertical-align: middle; margin: 0 4px; height: 48px;" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="vertical-align: middle; margin: 0 4px; height: 48px;" />
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" style="vertical-align: middle; margin: 0 4px; height: 48px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI Frameworks" style="vertical-align: middle; margin: 0 4px;" />
 </div>
 
 ---
@@ -57,19 +67,10 @@ Because great AI needs a robust infrastructure to run on.
 
 ---
 
-### 💼 How I Can Help Your Team
-
-1. **LLM Application Development:** Moving your AI ideas out of the Jupyter Notebook phase and into scalable web applications.
-2. **Agentic Workflows:** Using LangGraph to build cyclical, stateful AI agents that can browse, reason, and execute complex workflows autonomously.
-3. **Prompt Engineering & Fine-Tuning:** Optimizing model outputs for accuracy, reducing hallucinations, and ensuring JSON-strict outputs for backend consumption.
-4. **End-to-End Delivery:** As a former Founding Full-Stack Engineer, I don't just write AI scripts; I deploy them behind secure REST/GraphQL APIs and connect them to polished frontends.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair42dev&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Umair's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umair42dev&show_icons=true&theme=radium&hide_border=true" alt="Umair's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umair42dev&theme=radium&hide_border=true" alt="Umair's GitHub Streak" />
 </div>
